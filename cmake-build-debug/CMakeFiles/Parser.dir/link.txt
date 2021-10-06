@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Parser.dir/Tokenizer.cpp.o CMakeFiles/Parser.dir/gauss_ext.cpp.o CMakeFiles/Parser.dir/main.cpp.o CMakeFiles/Parser.dir/Parser.cpp.o CMakeFiles/Parser.dir/Reader.cpp.o CMakeFiles/Parser.dir/User_funcs.cpp.o -o Parser 
