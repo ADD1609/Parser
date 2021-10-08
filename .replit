@@ -1,3 +1,3 @@
 language = "cpp"
-onBoot = "mkdir parser_build && cd parser_build && cmake ../ && cmake --build . && rm README.md"
+onBoot = "rm README.mdmkdir && parser_build && cd parser_build && cmake ../ && cmake --build ."
 run = "clear && tput setaf 1; echo Author of this code: Ahmed Sami && echo [Github]: github.com/ADD1609 && tput setaf 2; echo Build was successful! Running Parser: && tput setaf 7; ./parser_build/Parser"
