@@ -1,0 +1,3 @@
+language = "cpp"
+onBoot = "mkdir parser_build && cd parser_build && cmake ../ && cmake --build . && clear && ./Parser"
+run = "clear && ./parser_build/Parser"
